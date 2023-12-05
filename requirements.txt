@@ -1,0 +1,9 @@
+pymongo
+altair
+numpy
+pandas
+pydeck
+langchain
+openai
+chromadb
+tiktoken
